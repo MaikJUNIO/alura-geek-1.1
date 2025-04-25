@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "titulo": "Tanjiro Kamado",
+      "precio": "30",
+      "imagen": "https://i.pinimg.com/736x/95/89/5a/95895a14942cda5489ce22aad4f47416.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Nezuko Kamado",
+      "precio": "50",
+      "imagen": "https://i.pinimg.com/736x/3d/4a/8b/3d4a8b076499a5a75d03d9cd3791a2a0.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Zenitsu Agatsuma",
+      "precio": "70",
+      "imagen": "https://i.pinimg.com/236x/a0/9c/d4/a09cd40311646f4c85c82b0303daffcc.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Genya Shinazugawa",
+      "precio": "70",
+      "imagen": "https://i.pinimg.com/474x/a8/b0/df/a8b0df8ded38459ac3e0e54f35bd89d8.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Kanao Tsuyuri",
+      "precio": "60",
+      "imagen": "https://i.pinimg.com/236x/96/05/20/96052070c62288e281fd56d29a31519f.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Giyu Tomioka",
+      "precio": "30",
+      "imagen": "https://i.pinimg.com/474x/e1/1e/33/e11e335298e377083661d8e39ec54d69.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "Nakime",
+      "precio": "35",
+      "imagen": "https://i.pinimg.com/236x/6b/a9/12/6ba912c2e9b40bab870a57064554bb12.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "Rengoku Kyojuro",
+      "precio": "100",
+      "imagen": "https://i.pinimg.com/474x/06/91/36/06913672c092293b0ecf254aeba6639c.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": " Yoriichi",
+      "precio": "500",
+      "imagen": "https://i.pinimg.com/236x/d8/4a/8a/d84a8afbb11a127773d5f5807b8e1d08.jpg"
+    },
+    {
+      "id": "12",
+      "titulo": "Muichiro Tokito",
+      "precio": "10",
+      "imagen": "https://i.pinimg.com/474x/a2/4c/db/a24cdb7485089bf38fa5e4c977d03526.jpg"
+    },
+    {
+      "id": "13",
+      "titulo": "Obanai Iguro",
+      "precio": "40",
+      "imagen": "https://i.pinimg.com/736x/b1/da/42/b1da423f54afaf026814648283205401.jpg"
+    },
+    {
+      "id": "ad46",
+      "titulo": "Yorichi Chibi",
+      "precio": "200",
+      "imagen": "https://i.pinimg.com/236x/67/5a/d5/675ad5684d02e31663a2f3098c4cc14c.jpg"
+    }
+  ]
+}
