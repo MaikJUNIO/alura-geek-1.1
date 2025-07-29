@@ -11,23 +11,24 @@ Con esta aplicacion usted podrá
 
 1- Visualizar Productos : Los productos se cargan automáticamente desde el servidor simulado al abrir la página.
 
-![image](https://github.com/user-attachments/assets/b77be58b-f86a-4a7a-929d-d2b9f42099ab)
-
+<img width="1847" height="925" alt="image" src="https://github.com/user-attachments/assets/0344f194-3df0-49a1-8db1-67f2345bca7d" />
 
 2- Agregar Producto : Completa el formulario con nombre, precio y URL de la imagen, luego haz clic en "Enviar" .
 
-![image](https://github.com/user-attachments/assets/8ccdc79a-3d8f-4e1e-84a1-82c45c6e0e88)
-
+<img width="668" height="843" alt="image" src="https://github.com/user-attachments/assets/3fbfc6ed-d415-421e-8870-705822b8844a" />
+<img width="535" height="520" alt="image" src="https://github.com/user-attachments/assets/2f5e705b-4a3b-47d8-8010-17024cab7c9b" />
 
 3- Eliminar Producto : Haga clic en el ícono de la papelera para eliminar un producto.
 
-![image](https://github.com/user-attachments/assets/ca2457b8-a464-4224-9793-997819442448)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15507674-455c-419a-bffd-464370638f8f" />
 
 
 4- Buscar productos, mediante palabra clave
 
 
-![image](https://github.com/user-attachments/assets/8615a9e7-fcf2-4ad8-8dfe-5c08469be657)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1a147df-8982-4e3d-9b1c-f818a2f350f7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84dfe8f0-d799-48ad-bff8-dfab03b056a8" />
 
 
 
@@ -135,12 +136,18 @@ ________________________________________________________________________________
      ```
 
 2. **Servidor JSON**  
-   - Para simular una base de datos, este proyecto utiliza **json-server**.  
+   - Para simular una base de datos, este proyecto utiliza **json-server**.
+     ```bash
+     npm install -g json-server
+     ```
    - Inicia el servidor con el siguiente comando:  
      ```bash
      json-server --watch db.json
      ```
    - El servidor se ejecutará en `http://localhost:3002`.
+     ```bash
+     npx json-server --watch db.json --port 3002
+     ```
 
 3. **Estructura del proyecto**  
    - El código está dividido en carpetas organizadas por funcionalidad:  
